@@ -1,0 +1,28 @@
+name: SalesAchievements
+favicon: null
+layout_spectrum: 0.7685844537336379
+typography_spectrum: 0.42741103447042406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20968592981807888
+  lightness: 0.4860952652525157
+  saturation: 0.15192971122451127
+  rhythmicContrast: 0.1882951781153679
+purpose: []
